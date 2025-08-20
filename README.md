@@ -1,26 +1,26 @@
-# Jogo-de-Ludo
-Ludo Game
+Ludo Game – Python & PyGame
 
-Projeto do clássico jogo Ludo desenvolvido em Python com PyGame.
-Além de recriar as regras originais, o projeto aplica conceitos de estruturas de dados (listas, pilhas e filas) na lógica do jogo.
+Projeto desenvolvido em Python com PyGame que recria o clássico jogo de tabuleiro Ludo.
+Além da jogabilidade tradicional, o código demonstra aplicação prática de estruturas de dados:
 
-Funcionalidades:
-Tabuleiro interativo.
-Movimento automático das peças conforme o dado.
-Regras originais implementadas (captura, casa segura, corrida final).
-Suporte a múltiplos jogadores locais.
+Lista: gerenciamento do tabuleiro e peças.
 
-Python 3.x
-PyGame
+Fila (FIFO): controle da ordem dos jogadores.
 
-Fiz este jogo de Ludo para um projeto da faculdade na UC de Estrutura de dados, 2025/4º periodo.
+Pilha (LIFO): histórico de jogadas (undo).
 
-| Como Executar |
-Clone este repositório:
-git clone https://github.com/SEU_USUARIO/ludo-pygame.git
+✨ Funcionalidades
 
-Instale as dependências:
-pip install pygame
+Tabuleiro interativo com regras originais.
 
-Execute o jogo:
-python main.py
+Captura de peças, casas seguras e corrida final até a base.
+
+Suporte a múltiplos jogadores locais (hotseat).
+
+📚 Aprendizados
+
+Estruturas de dados aplicadas em um projeto real.
+
+Manipulação de eventos e interface gráfica com PyGame.
+
+Lógica de jogos de tabuleiro em Python.
