@@ -14,3 +14,13 @@ Python 3.x
 PyGame
 
 Fiz este jogo de Ludo para um projeto da faculdade na UC de Estrutura de dados, 2025/4º periodo.
+
+| Como Executar |
+Clone este repositório:
+git clone https://github.com/SEU_USUARIO/ludo-pygame.git
+
+Instale as dependências:
+pip install pygame
+
+Execute o jogo:
+python main.py
