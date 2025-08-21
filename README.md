@@ -11,6 +11,10 @@ Fila (FIFO): controle da ordem dos jogadores.
 
 Pilha (LIFO): histórico de jogadas (undo).
 
+Tecnologias Utilizadas
+Python 3.x
+PyGame para gráficos e manipulação de eventos.
+ 
  Funcionalidades:
 
 Tabuleiro interativo com regras originais.
